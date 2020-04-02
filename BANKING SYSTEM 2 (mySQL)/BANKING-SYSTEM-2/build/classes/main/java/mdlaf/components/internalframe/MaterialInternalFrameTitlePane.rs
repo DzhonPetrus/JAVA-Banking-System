@@ -1,0 +1,1 @@
+mdlaf.components.internalframe.MaterialInternalFrameTitlePane

@@ -1,0 +1,3 @@
+mdlaf.components.taskpane.MaterialTaskPaneUI$MaterialPaneBorder
+mdlaf.components.taskpane.MaterialTaskPaneUI$ChangeIconOnClick
+mdlaf.components.taskpane.MaterialTaskPaneUI

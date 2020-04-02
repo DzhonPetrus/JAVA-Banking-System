@@ -1,0 +1,3 @@
+pag isesetup yung mySQL using xampp ioopen lang yung xampp control panel then start lang yung service ng Apache(para sa php) tsaka MySQL dun sa picture na tut1
+
+then para ma create yung database tsaka macreate yung table pindutin lang yung Admin na kahilera ni MySQL then lalabas yung localhost/phpmyadmin/ or pwede rin irekta access nyo nalang sa browser then pag lumabas na yung phpMyAdmin  click nyo lang yung 1)SQL sa taas katabi ng databases then may lalabas na 2) textarea which is dun nyo ipi paste yung query na nakalagay sa isang notepad then after nun click nyo lang yung 3) go then after nun iopen nyo na yung project sa netbeans then run nyo na

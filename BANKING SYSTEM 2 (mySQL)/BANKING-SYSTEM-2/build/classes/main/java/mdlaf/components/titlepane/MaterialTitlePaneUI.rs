@@ -1,0 +1,8 @@
+mdlaf.components.titlepane.MaterialTitlePaneUI$RestoreAction
+mdlaf.components.titlepane.MaterialTitlePaneUI$PropertyChangeHandler
+mdlaf.components.titlepane.MaterialTitlePaneUI$WindowHandler
+mdlaf.components.titlepane.MaterialTitlePaneUI$IconifyAction
+mdlaf.components.titlepane.MaterialTitlePaneUI
+mdlaf.components.titlepane.MaterialTitlePaneUI$TitlePaneLayout
+mdlaf.components.titlepane.MaterialTitlePaneUI$MaximizeAction
+mdlaf.components.titlepane.MaterialTitlePaneUI$CloseAction
